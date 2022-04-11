@@ -1,0 +1,46 @@
+/* Esta es la hoja de estilos */
+body{
+    
+    background-image:url("https://static1.burgosconecta.es/www/multimedia/202002/14/media/cortadas/cieloazul1-k1zG-U100155473657HzH-1968x1216@RC.jpg");
+    text-align: center;
+}
+div{
+    width: 20%;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    vertical-align: middle;
+    background-color: rgb(158, 195, 228);
+    text-align: center;
+    opacity: 0.9;
+    box-shadow: 7px 13px 37px;
+    
+}
+
+h1{
+    font-size: 10 px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+
+    text-align: center;
+    background-color: rgb(97, 149, 159);
+    color: rgb(50, 33, 77);
+}
+
+h2{
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(6, 71, 84);
+    font-size: 15 px;
+    color: rgb(255, 255, 255);
+}
+
+h3{
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    text-align: center;
+    background-color: rgb(30, 136, 157);
+    font-size: 15 px;
+    color: rgb(0, 0, 0);
+}
